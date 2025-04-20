@@ -1,0 +1,10 @@
+{
+    "facebook/bart-large": {
+        "rouge-1": 0.5266759522367185,
+        "rouge-2": 0.4056646399441861,
+        "rouge-l": 0.5242965597000936,
+        "bertscore_precision": 0.9391670823097229,
+        "bertscore_recall": 0.9254858493804932,
+        "bertscore_f1": 0.9320062398910522
+    }
+}

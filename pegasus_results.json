@@ -1,0 +1,10 @@
+{
+    "google/pegasus-xsum": {
+        "rouge-1": 0.5232982879432198,
+        "rouge-2": 0.4128887325148325,
+        "rouge-l": 0.5207143689654321,
+        "bertscore_precision": 0.9363299362987654,
+        "bertscore_recall": 0.9247387024123456,
+        "bertscore_f1": 0.9272891644896543
+    }
+}
